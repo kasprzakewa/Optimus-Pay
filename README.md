@@ -2,6 +2,8 @@
 
 Projekt stanowi implementację algorytmu optymalizującego wybór metod płatności dla zestawu zamówień w internetowym supermarkecie. Celem jest maksymalizacja łącznego rabatu uzyskanego przez klienta, przy pełnym opłaceniu wszystkich zamówień i zgodności z ograniczeniami budżetowymi.
 
+Interaktywna dokumentacja projektu dotępna jest [tutaj](https://kasprzakewa.github.io/Optimus-Price/).
+
 ### Kluczowe założenia:
 
 * Każde zamówienie może zostać opłacone:
