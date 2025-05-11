@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.optimuspay"},{"l":"com.optimuspay.exception"},{"l":"com.optimuspay.model"},{"l":"com.optimuspay.service"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.optimusprice"},{"l":"com.optimusprice.exception"},{"l":"com.optimusprice.model"},{"l":"com.optimusprice.service"}];updateSearchResults();
