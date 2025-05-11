@@ -1,0 +1,5 @@
+optimus-pay/target/
+.mvn/
+.mvn/wrapper/
+.vscode/
+optimus-pay/dependency-reduced-pom.xml
