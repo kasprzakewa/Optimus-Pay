@@ -1,6 +1,6 @@
 # Optimus Price
 
-<img align="right" width="350" src="https://github.com/kasprzakewa/Optimus-Price/blob/main/docs/optimus.png" />
+<img align="right" width="400" src="https://github.com/kasprzakewa/Optimus-Price/blob/main/docs/optimus.png" />
 
 Projekt stanowi implementację algorytmu optymalizującego wybór metod płatności dla zestawu zamówień w internetowym supermarkecie. Celem jest maksymalizacja łącznego rabatu uzyskanego przez klienta, przy pełnym opłaceniu wszystkich zamówień i zgodności z ograniczeniami budżetowymi.
 
