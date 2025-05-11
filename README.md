@@ -173,7 +173,7 @@ Projekt jest zaprojektowany do działania na **Javie 17**.
   <dependency>
     <groupId>com.google.ortools</groupId>
     <artifactId>ortools-java</artifactId>
-    <version>9.12.4544</version>
+    <version>9.11.4210</version>
   </dependency>
   ```
 
@@ -183,7 +183,7 @@ Projekt jest zaprojektowany do działania na **Javie 17**.
   <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
     <artifactId>jackson-databind</artifactId>
-    <version>2.16.1</version>
+    <version>2.18.2</version>
   </dependency>
   ```
   
@@ -204,7 +204,7 @@ Projekt jest zaprojektowany do działania na **Javie 17**.
   <dependency>
     <groupId>org.junit.jupiter</groupId>
     <artifactId>junit-jupiter</artifactId>
-    <version>5.10.0</version>
+    <version>5.10.2</version>
     <scope>test</scope>
   </dependency>
   ```
