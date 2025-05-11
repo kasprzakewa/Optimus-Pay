@@ -1,5 +1,5 @@
-optimus-pay/target/
+optimus-price/target/
 .mvn/
 .mvn/wrapper/
 .vscode/
-optimus-pay/dependency-reduced-pom.xml
+optimus-price/dependency-reduced-pom.xml
